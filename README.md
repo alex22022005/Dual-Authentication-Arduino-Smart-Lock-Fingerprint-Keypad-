@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🔒 Dual-Authentication Arduino Smart Lock (Fingerprint & Keypad)
 
 This project is an Arduino-based smart lock system that provides two methods of authentication: a fingerprint sensor and a keypad for a PIN. It's designed to control both a servo motor (for a latch) and a solenoid lock (for a deadbolt).
